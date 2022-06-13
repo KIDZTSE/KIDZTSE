@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KIDZTSE
-- 👀 I’m interested in food.
-- 🌱 I’m currently learning Python, Java, JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in food, art, cats & dogs.
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, PHP & SQL
 - 📫 How to reach me ...
 
 <!---
